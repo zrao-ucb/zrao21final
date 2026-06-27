@@ -14,18 +14,31 @@ Link for: [Google sheets](https://docs.google.com/spreadsheets/d/1ZTmgfvTfUerljE
 
 ### Top 10 Nationalisties of H-1B Applicats (2021)
 
-![alt text](image.jpg)
+![alt text](Top10Nationalities.png)
 
-This bar chart shows that applicants from India make up the largest share of the sample, followed by China. Applicants from other countries appear much less frequently. This suggests that H-1B registrations were heavily concentrated among a small number of nationalities in FY2021. It also shows that applicants from India made up a much larger share than any other country in the sample.
+Figure1 Top 10 H-1B applicant nationalities (2021 sample).
+Source: Bloomberg Graphics H-1B Immigration Data.
+
+Figure 1 the bar chart shows that applicants from India make up the largest share of the sample, followed by China. Applicants from other countries appear much less frequently. This suggests that H-1B registrations were heavily concentrated among a small number of nationalities in FY2021. It also shows that applicants from India made up a much larger share than any other country in the sample.
 
 ## Result 2:  Which employers submitted the most registrations?
 
 ### Top 10 Employers Submitting H-1B Registrations （2021)
 
-![alt text](image.jpg)
+![alt text](Top10Employers.png)
 
-This bar chart shows that several large technology and IT consulting companies submitted the highest numbers of H-1B registrations in the sample. Infosys, Amazon, Cognizant, and Tata Consultancy Services ranked among the largest employers. This suggests that H-1B registrations were concentrated among a relatively small group of large employers rather than being evenly distributed across companies.
+Figure2 Top 10 employers submitting H-1B registrations (2021 sample).
+Source: Bloomberg Graphics H-1B Immigration Data.
+
+Figure 2 shows that several large technology and IT consulting companies submitted the highest numbers of H-1B registrations in the sample. Infosys, Amazon, Cognizant, and Tata Consultancy Services ranked among the largest employers. This suggests that a relatively small number of large companies submitted many of the H-1B registrations in the sample.
 
 ## Ending summary
 
 This project found that most H-1B registrations in the sample came from a small number of countries, especially India and China. It also showed that several large technology and IT consulting companies submitted the highest numbers of H-1B registrations. However, these results should be interpreted carefully. The data should not be used to stereotype people from any country or suggest that companies with many registrations did anything wrong. This project only shows patterns in the data and cannot explain the reasons behind them. To make this a more complete and ethical story, more reporting would be needed. For example, future research could compare data from different years, clean employer names to combine duplicate company records, and interview immigration experts or employers to better understand the results. However, this project is based on a random sample rather than the complete FY2021 dataset, the findings may not fully represent all H-1B registrations from that year.
+
+
+## References
+
+Bloomberg Graphics. *H-1B Immigration Data*. https://github.com/BloombergGraphics/2024-h1b-immigration-data
+
+Bloomberg News. *How Staffing Firms Gamed the H-1B Visa Lottery System*. https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/ 
